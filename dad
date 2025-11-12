@@ -1,0 +1,42 @@
+[33mcommit 8a6ebc6aedeaceffd3fefa9e02b9f99f1407c04c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature-x[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/feature-x[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: RIZAL <ir.mohdrizal@gmail.com>
+Date:   Wed Nov 12 11:42:08 2025 +0800
+
+    new hello from main
+
+[33mcommit 577a50af24789594b5d6b2fb489eecd6e9c80042[m
+Author: RIZAL <ir.mohdrizal@gmail.com>
+Date:   Wed Nov 12 11:30:49 2025 +0800
+
+    feature-x work
+
+[33mcommit 449ab1dd2ba902dd9aaa963ed50fb98b3fb9083d[m
+Merge: b25b4ce 1741f5c
+Author: RIZAL <ir.mohdrizal@gmail.com>
+Date:   Wed Nov 12 11:20:19 2025 +0800
+
+    resolve merge conflict
+
+[33mcommit b25b4ce4ab4b9c147e9efdc8755283e4d4a5b49b[m
+Author: RIZAL <ir.mohdrizal@gmail.com>
+Date:   Wed Nov 12 11:16:38 2025 +0800
+
+    merge
+
+[33mcommit 1741f5c5bb66f6923256a2bc39f8dfcc8ba77d9e[m
+Author: RIZAL <ir.mohdrizal@gmail.com>
+Date:   Wed Nov 12 10:57:00 2025 +0800
+
+    feature-x work
+
+[33mcommit bb1bbfc0e39f77bc64b22dffe71bbc1193e8ccd8[m
+Author: RIZAL <ir.mohdrizal@gmail.com>
+Date:   Wed Nov 12 10:35:26 2025 +0800
+
+    letak file hello.txt di GIT
+
+[33mcommit 840afa227e1851b728f9c5a7cb4d3ad03a25c9dc[m
+Author: irmohdrizal-svg <ir.mohdrizal@gmail.com>
+Date:   Wed Nov 12 10:09:27 2025 +0800
+
+    Initial commit
