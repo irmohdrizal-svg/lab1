@@ -1,3 +1,4 @@
 Salam
 
-Latihan Git 
+1.Latihan Git 
+2.upload ke Git
