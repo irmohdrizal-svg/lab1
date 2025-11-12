@@ -7,3 +7,5 @@ Latihan Git
 1.Latihan Git 
 2.upload ke Git
 >>>>>>> feature-x
+
+testing lagi
