@@ -9,3 +9,4 @@ Latihan Git
 >>>>>>> feature-x
 
 testing lagi
+dari main
