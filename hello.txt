@@ -1,4 +1,9 @@
 Salam
 
+<<<<<<< HEAD
 Latihan Git 
 - ade di main
+=======
+1.Latihan Git 
+2.upload ke Git
+>>>>>>> feature-x
